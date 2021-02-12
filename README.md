@@ -196,13 +196,13 @@ Publish the website in the given URL.
 
 ![output](./static/img/output1.JPG)
 
-![output](./static/img/output2.png)
+![output](./static/img/output2.JPG)
 
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/report1.jpeg)
+![output](./static/img/report1.JPG)
 
-![output](./static/img/report2.jpeg)
+![output](./static/img/report2.JPG)
 
 
 ## RESULT:
